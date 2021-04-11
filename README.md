@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @trismit, or better known as Trish! 
+- 👀 I'm a product manager trying to learn some more technical skills, which is why this github exists.
+- 🌱 I’m currently learning how to ...anything!
+- 📫 Reach me via tweet: @trismit_
